@@ -1,0 +1,20 @@
+---
+title: "Report"
+output: html_document
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Multiple Linear Regression
+
+A linear regression model has been used to analyse the dataset provided. 
+The coordinates x, y denote independent, dependent variables respectively.
+
+```{r ,echo=FALSE}
+result()
+```
+
+
